@@ -1,5 +1,5 @@
 Brief Description:
-Fine-grained image classification project for aircraft recognition using transfer learning on pretrained CNN models, enhanced with data augmentation and fine-tuning.
+Fine-grained image classification for aircraft recognition using transfer learning on pretrained CNN models, enhanced with data augmentation and fine-tuning.
 
 Technologies Used:
 
